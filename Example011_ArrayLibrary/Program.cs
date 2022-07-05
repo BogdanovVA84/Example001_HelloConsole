@@ -91,7 +91,7 @@ internal partial class Program
         PrintArray(array);
         Console.WriteLine();
 
-        int pos = indexOf(array, 444);
+        int pos = indexOf(array, 5);
         Console.WriteLine(pos);
 
     }   

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Examples\\Example004_Div\\Example004_Div.csproj": {}
+    "D:\\03. Обучение GB\\03. Знакомство с языками программирования (лекции)\\С# лекции\\Examples\\Example004_Div\\Example004_Div.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Examples\\Example004_Div\\Example004_Div.csproj": {
+    "D:\\03. Обучение GB\\03. Знакомство с языками программирования (лекции)\\С# лекции\\Examples\\Example004_Div\\Example004_Div.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Examples\\Example004_Div\\Example004_Div.csproj",
+        "projectUniqueName": "D:\\03. Обучение GB\\03. Знакомство с языками программирования (лекции)\\С# лекции\\Examples\\Example004_Div\\Example004_Div.csproj",
         "projectName": "Example004_Div",
-        "projectPath": "C:\\Users\\Admin\\Examples\\Example004_Div\\Example004_Div.csproj",
+        "projectPath": "D:\\03. Обучение GB\\03. Знакомство с языками программирования (лекции)\\С# лекции\\Examples\\Example004_Div\\Example004_Div.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Examples\\Example004_Div\\obj\\",
+        "outputPath": "D:\\03. Обучение GB\\03. Знакомство с языками программирования (лекции)\\С# лекции\\Examples\\Example004_Div\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"

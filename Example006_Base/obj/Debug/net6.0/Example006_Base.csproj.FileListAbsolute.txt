@@ -13,3 +13,18 @@ C:\Users\Admin\Examples\Example006_Base\obj\Debug\net6.0\refint\Example006_Base.
 C:\Users\Admin\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.pdb
 C:\Users\Admin\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.genruntimeconfig.cache
 C:\Users\Admin\Examples\Example006_Base\obj\Debug\net6.0\ref\Example006_Base.dll
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\С# лекции\Examples\Example006_Base\bin\Debug\net6.0\Example006_Base.exe
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\С# лекции\Examples\Example006_Base\bin\Debug\net6.0\Example006_Base.deps.json
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\С# лекции\Examples\Example006_Base\bin\Debug\net6.0\Example006_Base.runtimeconfig.json
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\С# лекции\Examples\Example006_Base\bin\Debug\net6.0\Example006_Base.dll
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\С# лекции\Examples\Example006_Base\bin\Debug\net6.0\Example006_Base.pdb
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\С# лекции\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.csproj.AssemblyReference.cache
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\С# лекции\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.GeneratedMSBuildEditorConfig.editorconfig
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\С# лекции\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.AssemblyInfoInputs.cache
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\С# лекции\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.AssemblyInfo.cs
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\С# лекции\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.csproj.CoreCompileInputs.cache
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\С# лекции\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.dll
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\С# лекции\Examples\Example006_Base\obj\Debug\net6.0\refint\Example006_Base.dll
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\С# лекции\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.pdb
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\С# лекции\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.genruntimeconfig.cache
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\С# лекции\Examples\Example006_Base\obj\Debug\net6.0\ref\Example006_Base.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Examples\\Example006_Base\\Example006_Base.csproj": {}
+    "D:\\03. Обучение GB\\03. Знакомство с языками программирования (лекции)\\С# лекции\\Examples\\Example006_Base\\Example006_Base.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Examples\\Example006_Base\\Example006_Base.csproj": {
+    "D:\\03. Обучение GB\\03. Знакомство с языками программирования (лекции)\\С# лекции\\Examples\\Example006_Base\\Example006_Base.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Examples\\Example006_Base\\Example006_Base.csproj",
+        "projectUniqueName": "D:\\03. Обучение GB\\03. Знакомство с языками программирования (лекции)\\С# лекции\\Examples\\Example006_Base\\Example006_Base.csproj",
         "projectName": "Example006_Base",
-        "projectPath": "C:\\Users\\Admin\\Examples\\Example006_Base\\Example006_Base.csproj",
+        "projectPath": "D:\\03. Обучение GB\\03. Знакомство с языками программирования (лекции)\\С# лекции\\Examples\\Example006_Base\\Example006_Base.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Examples\\Example006_Base\\obj\\",
+        "outputPath": "D:\\03. Обучение GB\\03. Знакомство с языками программирования (лекции)\\С# лекции\\Examples\\Example006_Base\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"

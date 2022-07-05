@@ -13,3 +13,18 @@ C:\Users\Admin\Examples\Example004_Div\obj\Debug\net6.0\refint\Example004_Div.dl
 C:\Users\Admin\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.pdb
 C:\Users\Admin\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.genruntimeconfig.cache
 C:\Users\Admin\Examples\Example004_Div\obj\Debug\net6.0\ref\Example004_Div.dll
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\С# лекции\Examples\Example004_Div\bin\Debug\net6.0\Example004_Div.exe
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\С# лекции\Examples\Example004_Div\bin\Debug\net6.0\Example004_Div.deps.json
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\С# лекции\Examples\Example004_Div\bin\Debug\net6.0\Example004_Div.runtimeconfig.json
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\С# лекции\Examples\Example004_Div\bin\Debug\net6.0\Example004_Div.dll
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\С# лекции\Examples\Example004_Div\bin\Debug\net6.0\Example004_Div.pdb
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\С# лекции\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.csproj.AssemblyReference.cache
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\С# лекции\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.GeneratedMSBuildEditorConfig.editorconfig
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\С# лекции\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.AssemblyInfoInputs.cache
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\С# лекции\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.AssemblyInfo.cs
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\С# лекции\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.csproj.CoreCompileInputs.cache
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\С# лекции\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.dll
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\С# лекции\Examples\Example004_Div\obj\Debug\net6.0\refint\Example004_Div.dll
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\С# лекции\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.pdb
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\С# лекции\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.genruntimeconfig.cache
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\С# лекции\Examples\Example004_Div\obj\Debug\net6.0\ref\Example004_Div.dll
